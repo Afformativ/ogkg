@@ -1,0 +1,16 @@
+D:\OGKGlab\OGKGlab\bin\Debug\netcoreapp3.1\OGKGlab.exe
+D:\OGKGlab\OGKGlab\bin\Debug\netcoreapp3.1\OGKGlab.deps.json
+D:\OGKGlab\OGKGlab\bin\Debug\netcoreapp3.1\OGKGlab.runtimeconfig.json
+D:\OGKGlab\OGKGlab\bin\Debug\netcoreapp3.1\OGKGlab.runtimeconfig.dev.json
+D:\OGKGlab\OGKGlab\bin\Debug\netcoreapp3.1\OGKGlab.dll
+D:\OGKGlab\OGKGlab\bin\Debug\netcoreapp3.1\OGKGlab.pdb
+D:\OGKGlab\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.csproj.AssemblyReference.cache
+D:\OGKGlab\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.Form1.resources
+D:\OGKGlab\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.csproj.GenerateResource.cache
+D:\OGKGlab\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.GeneratedMSBuildEditorConfig.editorconfig
+D:\OGKGlab\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.AssemblyInfoInputs.cache
+D:\OGKGlab\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.AssemblyInfo.cs
+D:\OGKGlab\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.csproj.CoreCompileInputs.cache
+D:\OGKGlab\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.dll
+D:\OGKGlab\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.pdb
+D:\OGKGlab\OGKGlab\obj\Debug\netcoreapp3.1\OGKGlab.genruntimeconfig.cache
